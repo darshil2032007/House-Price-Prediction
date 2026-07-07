@@ -13,7 +13,12 @@ evaluation, and a deployable **Streamlit** web application.
 ![License](https://img.shields.io/badge/License-Educational%20Use-green)
 
 ---
+## 🌐 Live Demo
 
+🚀 **Try the application here:**
+
+#### https://house-price-prediction-darshil.streamlit.app
+---
 ## 📑 Table of Contents
 
 - [Project Overview](#-project-overview)
